@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# CodeLite
+**/.codelite
+Debug/
+*.workspace
+*.project
+*.mk
+*.db
+Makefile
+*.txt
